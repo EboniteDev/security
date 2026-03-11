@@ -1,12 +1,8 @@
-# Description
-Everything about security and verification of projects.
-# Summary
-Here you can find stuff to verify your downloads through GitHub.
-Some examples: sha256, GPG public key.
-# SHA256
-red-annoyance-list :
+# Security repository
 
-# GPG key info
-name:
-email:
-fingerprint:
+## INFOS
+
+This repository hosts all things security/verifications.
+Here you can find the public gpg certificate (you can use Kleopatra or similar software to use it).
+
+Here will also be present the CHECKSUMS summary of important projects.
